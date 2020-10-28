@@ -1,2 +1,2 @@
 # infiniteloop1
-Very simple app to put arithmetic load on CPU
+Very simple app in JAVA to put arithmetic load on CPU for specific number of milliseconds
